@@ -11,7 +11,7 @@ In order to represent any possible state of the game, the moves by the X player,
 
 Some basic methods allow us to obtain information about the game, such as `isValid`, `getMoves`, `winner`, etc.
 
-The method `make\_move` will, instead of modifying the current object, return a copy of the class, in which the desired move has been made.
+The method `make_move` will, instead of modifying the current object, return a copy of the class, in which the desired move has been made.
 
 ## minimax module
 
